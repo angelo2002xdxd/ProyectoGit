@@ -9,5 +9,7 @@ package proyectogit;
  * @author angel
  */
 public class Persona {
-    
+private int Codig;
+private String Nombre;
+private String Direccion;
 }
