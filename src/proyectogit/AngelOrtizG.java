@@ -8,9 +8,6 @@ package proyectogit;
  *
  * @author angel
  */
-public class Cientes {
-
-    public Cientes() {
-    }
+public class AngelOrtizG {
     
 }
